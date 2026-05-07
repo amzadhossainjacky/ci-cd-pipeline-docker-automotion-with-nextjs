@@ -12,9 +12,7 @@ export default function Home() {
           >
             🚀 CI/CD with Jenkins and Next.js!
 
-              Jacky is working hard to make this project successful.
-              2026 will be a legendary year in the AI and DevOps world.
-              Let’s make it happen together! 💡🔥
+              Jacky is working hard to make this project successful with docker deployment! 💡🔥
 
           </a>
         </h1>
