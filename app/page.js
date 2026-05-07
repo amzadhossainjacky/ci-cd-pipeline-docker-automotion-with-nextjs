@@ -12,7 +12,8 @@ export default function Home() {
           >
             🚀 CI/CD with Jenkins and Next.js!
 
-              Jacky is working hard to make this project successful with docker deployment by karzon! 💡🔥
+              Jacky is working hard to make this project successful with Docker deployment! 💡🔥
+              Thanks to Shakil ভাই for your support and for reminding me of the vision of my life! 🙌😊
 
           </a>
         </h1>
