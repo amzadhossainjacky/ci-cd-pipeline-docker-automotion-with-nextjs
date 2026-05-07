@@ -1,0 +1,1 @@
+# ci-cd-pipeline-docker-automotion-with-nextjs
