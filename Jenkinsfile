@@ -5,7 +5,7 @@ pipeline {
         CONTAINER_NAME = "nestjs-app-container"
         IMAGE_NAME = "nestjs-image"
         EMAIL = "amzadhossain1922@gmail.com"
-        PORT = "3000"
+        PORT = "4000"
     }
 
     stages {
